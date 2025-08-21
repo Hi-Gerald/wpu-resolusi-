@@ -3,6 +3,7 @@ RENCANAN KONTEN WPU
 -Javascript
  *ES6
  *Framework javascript
+-Struktur data Dasar
 -PHP Frameworks
 -Interview
 -Vlog
