@@ -3,6 +3,8 @@ RENCANAN KONTEN WPU
 -Javascript
  *ES6
  *Framework javascript
+  ^Angular
+  ^React
   ^View
   ^React
 -Struktur data Dasar
