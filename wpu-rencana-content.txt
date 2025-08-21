@@ -4,6 +4,7 @@ RENCANAN KONTEN WPU
  *ES6
  *Framework javascript
   ^View
+  ^React
 -Struktur data Dasar
 -PHP Frameworks
   ^Laravel
