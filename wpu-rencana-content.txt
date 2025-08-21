@@ -5,7 +5,11 @@ RENCANAN KONTEN WPU
  *Framework javascript
   ^Angular
   ^React
--PHP Frameworks 
+  ^View
+  ^React
+-Struktur data Dasar
+-PHP Frameworks
   ^Laravel
 -Interview
 -Vlog
+-Python
